@@ -9,11 +9,11 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 
 | 🗒️ ToDoList using React Hook 1 | 🗒️ ToDoList using React Hook 2 |
 |------------|------------|
-| ![ToDoList 1](tg1.png) | ![ToDoList 2](tg2.png) |
+| ![ToDoList 1](./imgg/tg1.png) | ![ToDoList 2](./imgg/tg2.png) |
 
 | 🗒️ ToDoList using React Hook 3 | 🗒️ ToDoList using React Hook 4 |
 |---------------|---------------|
-| ![ToDoList 3](tg3.png) | ![ToDoList 4](tg4.png) |
+| ![ToDoList 3](./imgg/tg3.png) | ![ToDoList 4](./imgg/tg4.png) |
 
 
 ---
