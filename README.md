@@ -8,6 +8,11 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 This ToDoList using React Hook application allows users to add, view, and manage their daily tasks efficiently.
 Each task can be clicked to mark as completed, which automatically applies a strike-through effect (line-through) to visually indicate completion.
 
+## Variant 3: Delete List when  Completed
+
+This ToDoList using React Hook application allows users to add, view, and manage their daily tasks efficiently.
+Variant 3 allows users to delete list from the ToDolist, providing full control over task management.
+
 ---
 ## 🖼️ Screenshots  
 
@@ -19,7 +24,7 @@ Each task can be clicked to mark as completed, which automatically applies a str
 |---------------|---------------|
 | ![ToDoList 3](./imgg/tg3.png) | ![ToDoList 4](./imgg/tg4.png) |
 
-| 🗒️ ToDoList using React Hook (Variant 2: Strike Off) | 🗒️ ToDoList using React Hook 4 |
+| 🗒️ ToDoList using React Hook (Variant 2: Strike Off) | 🗒️ ToDoList using React Hook (Variant 3: Delete List)|
 |---------------|---------------|
 | ![ToDoList 5](./imgg/tg5.png) | ![ToDoList 6](./imgg/tg6.png) |
 
